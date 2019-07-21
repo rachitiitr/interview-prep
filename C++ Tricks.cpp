@@ -24,18 +24,18 @@ void read(T&... args) {
 int main() {
 	
 	int x = 3, y = 8, i;
-	
-  read(x, y);
-  deb(x);
-  deb(y);
-	
-  write(1, 2, 3, 5, -1, "wow");
-  
-  Fo(i, 10, 20) 
-    cout << i << " "; 
-  cout << endl;
-  
-  cout << max(-1, 232, 12, 343, 33) << endl;
+
+	read(x, y);
+	deb(x);
+	deb(y);
+
+	write(1, 2, 3, 5, -1, "wow");
+
+	Fo(i, 10, 20) 
+		cout << i << " "; 
+	cout << endl;
+
+	cout << max(-1, 232, 12, 343, 33) << endl;
 	
   
 	
