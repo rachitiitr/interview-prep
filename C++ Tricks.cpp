@@ -30,14 +30,13 @@ int main() {
 	deb(y);
 
 	write(1, 2, 3, 5, -1, "wow");
+	cout << endl;
 
 	Fo(i, 10, 20) 
 		cout << i << " "; 
 	cout << endl;
 
 	cout << max(-1, 232, 12, 343, 33) << endl;
-	
-  
 	
 	return 0;
 }
