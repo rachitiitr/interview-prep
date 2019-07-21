@@ -27,8 +27,7 @@ int main() {
 	
   read(x, y);
   deb(x);
-	deb(y);
-  debug(x, y);
+  deb(y);
 	
   write(1, 2, 3, 5, -1, "wow");
   
