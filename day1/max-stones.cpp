@@ -42,7 +42,7 @@ public:
         return 0;
     }
 };
-int maint()
+int main()
 {
     return 0;
 }
