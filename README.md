@@ -14,7 +14,8 @@
 
 # How to reach out to me?
 
--   Facebook: https://fb.me/rachitjain2095
+-   Portfolio Website: https://rachitiitr.com
 -   YouTube: https://youtube.com/c/RachitJain
+-   Instagram: https://instagram.com/rachitjain2095
 -   Twitter: https://twitter.com/rachitiitr
 -   Mail: rachitiitr@outlook.com [work related mails only]
