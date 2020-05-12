@@ -12,7 +12,7 @@
 -   I have been known as 'rachitiitr' or 'rachitjain2095' on Codeforces, Codechef, Twitter, Facebook, etc.
 -   I like to teach as well as learn, and you might be knowing me from my YouTube Programming channel "Algorithms with Rachit"
 
-# How to reach out to me?
+# How to Connect me?
 
 -   Portfolio Website: https://rachitiitr.com
 -   YouTube: https://youtube.com/c/RachitJain
