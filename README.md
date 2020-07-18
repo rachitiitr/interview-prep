@@ -6,7 +6,7 @@
 
 # Who am I?
 
--   My name is Rachit, a Competitive Programming + Software Engineer + Instructor + YouTuber
+-   My name is Rachit, a Competitive Programming Enthusiast+ Software Engineer + Instructor + YouTuber
 -   I have worked in past with Microsoft and currently working at Tower Research.
 -   I am a self-taught programmer as I graduated in Electrical Engineering from IIT Roorkee.
 -   I have been known as 'rachitiitr' or 'rachitjain2095' on Codeforces, Codechef, Twitter, Facebook, etc.
