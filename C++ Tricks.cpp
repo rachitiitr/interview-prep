@@ -5,7 +5,9 @@ using namespace std;
 #define deb(x) cout << #x << " " << x << endl;
 #define fo(i, n) for(i=0; i<n; i++)
 #define Fo(i, k, n) for(i=k; i<n; i++)
-
+#define Fast ios_base::sync_with_stdio(false); // For Decreasing execution time
+             cin.tie(NULL); 
+             cout.tie(NULL);
 template<typename... T>
 void read(T&... args) {
 	((cin >> args), ...);
