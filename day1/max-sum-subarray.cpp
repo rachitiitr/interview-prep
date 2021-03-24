@@ -1,26 +1,32 @@
-//https://leetcode.com/problems/maximum-subarray/
-#include <iostream>
-#include <vector>
-
+#include<bits/stdc++.h>
 using namespace std;
-// O(N), O(1)
-int maxSubArray(vector<int> &nums)
+
+int maxmSubArray(vector<int>v)
 {
-    int i, n = nums.size();
-    long long prevMax = INT_MIN, curMax;
-    long long ans = INT_MIN;
-    for (int i = 0; i < n; i++)
+  int res=INT_MIN;
+  int current_max=0;
+
+  for(int i=0;i<v.size();i++)
+  {
+    current_max+=v[i];
+
+    if(res<current_max)
     {
-        curMax = nums[i];
-        curMax = max(curMax, nums[i] + prevMax);
-        ans = max(ans, curMax);
-        prevMax = curMax;
+      res=current_max;
     }
-    return ans;
+
+    if(current_max<0)
+    {
+      current_max=0;
+    }
+  }
+  return res;
 }
 
 int main()
 {
-
-    return 0;
+  .....
+  ....
+  cout<<maxmSubArray(..)<<endl;
+  return 0;
 }
